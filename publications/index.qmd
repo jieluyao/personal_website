@@ -15,5 +15,6 @@ title-block-banner: false
 
 # Publications
 
-## Refereed Article
+## Refereed Articles
 
+<!-- ## Other Publications -->

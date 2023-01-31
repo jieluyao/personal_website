@@ -1,24 +1,24 @@
 {
-    "id": "0BF254B3",
-    "path": "~/Documents/Git/personal_website/publications/index.qmd",
-    "project_path": "publications/index.qmd",
-    "type": "quarto_markdown",
+    "id": "AC05CC75",
+    "path": "~/Documents/Git/personal_website/publications/pubs.ejs",
+    "project_path": "publications/pubs.ejs",
+    "type": "text",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1675152562555.0,
+    "created": 1675175379074.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 6,
     "properties": {
         "source_window_id": "",
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1675147392,
+    "lastKnownWriteTime": 1675143953,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1675147392,
+    "last_content_update": 1675143953,
     "read_only": false,
     "read_only_alternatives": []
 }
