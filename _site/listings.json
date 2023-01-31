@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/radioactivity.html"
+    ]
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/covid2022.html"
+    ]
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/french_academy_1901.html"
+    ]
+  }
+]
