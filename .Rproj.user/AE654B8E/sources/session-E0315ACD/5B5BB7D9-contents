@@ -1,0 +1,43 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "*.md"
+
+website:
+  title: "Jielu Yao"
+  site-url: "https://jieluyao.org"
+  navbar:
+    background: "#64669F"
+    left:
+      # - href: blog/index.qmd
+      #   text: Blog
+      - href: publications/index.qmd
+        text: Publications
+      # - href: software/index.qmd
+      #   text: Software
+      # - href: talks/index.qmd
+      #   text: Talks
+      - href: teaching/index.qmd
+        text: Teaching
+      - href: about/index.qmd
+        text: About
+  page-footer:
+    left: "©2023, Jielu Yao | Made with [Quarto](https://quarto.org/) | Based on [robjhyndman](https://github.com/robjhyndman/quarto_website_template)"
+    right:
+      - icon: github
+        href: https://github.com/jieluyao
+      - icon: twitter
+        href: https://twitter.com/jielu_yao
+    background: "#64669F"
+
+date-format: "D MMMM YYYY"
+
+format:
+  html:
+    theme: tango
+    css: styles.css
+    toc: true
+    html-math-method: katex
+    include-in-header:
+      file: header.html

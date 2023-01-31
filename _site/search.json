@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Jielu Yao",
     "section": "",
-    "text": "Jielu Yao Post-doc Research Fellow  Wesleyan Media Project Wesleyan University, US."
+    "text": "Jielu Yao Post-doc Research Fellow  Wesleyan Media Project Wesleyan University, Connnecticut, U.S."
   },
   {
     "objectID": "about/index.html",
@@ -65,6 +65,13 @@
   {
     "objectID": "publications/covid2022.html",
     "href": "publications/covid2022.html",
+    "title": "Policy adoption and diffusion during the COVID-19 crisis",
+    "section": "",
+    "text": "During the COVID-19 crisis, what explains the variation in policy adoptionamong Chinese provincial governments? To answer this question, we gathered data on twenty-five COVID-19 containment policies used in China from 31 December 2019 to 18 March 2020. We conducted state-of-the-art multilevel pooled event history analysis to allow us to control for policy heterogeneity. Our results demonstrate that variation in policy adoption during the crisis largely follows politics as usual: policies diffuse from the centre to the provinces in the same way that non-crisis policies diffuse. Our findings highlight the political dynamics of policy adoption and crisis response within China.\nKeywords: Policy diffusion; policy adoption; COVID-19; multilevel pooled event history analysis"
+  },
+  {
+    "objectID": "publications/covid2023.html",
+    "href": "publications/covid2023.html",
     "title": "Policy adoption and diffusion during the COVID-19 crisis",
     "section": "",
     "text": "During the COVID-19 crisis, what explains the variation in policy adoptionamong Chinese provincial governments? To answer this question, we gathered data on twenty-five COVID-19 containment policies used in China from 31 December 2019 to 18 March 2020. We conducted state-of-the-art multilevel pooled event history analysis to allow us to control for policy heterogeneity. Our results demonstrate that variation in policy adoption during the crisis largely follows politics as usual: policies diffuse from the centre to the provinces in the same way that non-crisis policies diffuse. Our findings highlight the political dynamics of policy adoption and crisis response within China.\nKeywords: Policy diffusion; policy adoption; COVID-19; multilevel pooled event history analysis"

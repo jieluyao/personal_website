@@ -1,0 +1,23 @@
+---
+about:
+  template: trestles
+  image: img/jieluyao_circle.png
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/jielu_yao
+    - icon: github
+      text: github
+      href: https://github.com/jieluyao
+    - icon: envelope
+      text: mail
+      href: mailto:jyao01@wesleyan.edu
+---
+
+<div class="about-link-text">
+**Jielu&nbsp;Yao**<br>
+Post-doc Research Fellow<br>
+<br>
+[Wesleyan Media Project](http://mediaproject.wesleyan.edu/)<br>
+[Wesleyan University](https://wesleyan.edu), Connnecticut, U.S.
+</div>
